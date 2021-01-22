@@ -26,8 +26,6 @@ function budgetCalculator(watch, phone, laptop) {
         return sum;
     }
 }
-var price = budgetCalculator(-12, -4, );
-console.log(price);
 
 
 // Hotel Cost Calculator
